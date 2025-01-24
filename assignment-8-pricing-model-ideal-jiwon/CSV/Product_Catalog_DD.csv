@@ -1,0 +1,151 @@
+ProductID,ProductCatalog,ProductName,FloorPrice,CeilingPrice,TargetPrice,SupplierName
+1001,Nail tools and accessories,Nail tools and accessories Product 1,6.5,11.5,9,Kiss Products Inc.
+1002,Nail tools and accessories,Nail tools and accessories Product 2,8,13,10.5,Kiss Products Inc.
+1003,Nail tools and accessories,Nail tools and accessories Product 3,9.5,14.5,12,Kiss Products Inc.
+1004,Nail tools and accessories,Nail tools and accessories Product 4,11,16,13.5,Kiss Products Inc.
+1005,Nail tools and accessories,Nail tools and accessories Product 5,12.5,17.5,15,Kiss Products Inc.
+1006,Gel Nail Products,Gel nail polishes Product 1,6.5,11.5,9,ImPRESS Manicure
+1007,Gel Nail Products,Gel nail polishes Product 2,8,13,10.5,ImPRESS Manicure
+1008,Gel Nail Products,Gel nail polishes Product 3,9.5,14.5,12,ImPRESS Manicure
+1009,Gel Nail Products,Gel nail polishes Product 4,11,16,13.5,ImPRESS Manicure
+1010,Gel Nail Products,Gel nail polishes Product 5,12.5,17.5,15,ImPRESS Manicure
+1011,Nail Wraps and Stickers,Dip powder systems Product 1,6.5,11.5,9,Static Nails
+1012,Nail Wraps and Stickers,Dip powder systems Product 2,8,13,10.5,Static Nails
+1013,Nail Wraps and Stickers,Dip powder systems Product 3,9.5,14.5,12,Static Nails
+1014,Nail Wraps and Stickers,Dip powder systems Product 4,11,16,13.5,Static Nails
+1015,Nail Wraps and Stickers,Dip powder systems Product 5,12.5,17.5,15,Static Nails
+1016,Acrylic Nail Kits,Press-on nails and designs Product 1,6.5,11.5,9,Nailene
+1017,Acrylic Nail Kits,Press-on nails and designs Product 2,8,13,10.5,Nailene
+1018,Acrylic Nail Kits,Press-on nails and designs Product 3,9.5,14.5,12,Nailene
+1019,Acrylic Nail Kits,Press-on nails and designs Product 4,11,16,13.5,Nailene
+1020,Acrylic Nail Kits,Press-on nails and designs Product 5,12.5,17.5,15,Nailene
+1021,Dip Powder Systems,Reusable pop-on nails Product 1,6.5,11.5,9,Red Aspen
+1022,Dip Powder Systems,Reusable pop-on nails Product 2,8,13,10.5,Red Aspen
+1023,Dip Powder Systems,Reusable pop-on nails Product 3,9.5,14.5,12,Red Aspen
+1024,Dip Powder Systems,Reusable pop-on nails Product 4,11,16,13.5,Red Aspen
+1025,Dip Powder Systems,Reusable pop-on nails Product 5,12.5,17.5,15,Red Aspen
+1026,Nail Polishes and Treatments,Artificial nail kits Product 1,6.5,11.5,9,Olive & June
+1027,Nail Polishes and Treatments,Artificial nail kits Product 2,8,13,10.5,Olive & June
+1028,Nail Polishes and Treatments,Artificial nail kits Product 3,9.5,14.5,12,Olive & June
+1029,Nail Polishes and Treatments,Artificial nail kits Product 4,11,16,13.5,Olive & June
+1030,Nail Polishes and Treatments,Artificial nail kits Product 5,12.5,17.5,15,Olive & June
+1031,Nail Art Supplies,Manicure kits Product 1,6.5,11.5,9,Glamnetic
+1032,Nail Art Supplies,Manicure kits Product 2,8,13,10.5,Glamnetic
+1033,Nail Art Supplies,Manicure kits Product 3,9.5,14.5,12,Glamnetic
+1034,Nail Art Supplies,Manicure kits Product 4,11,16,13.5,Glamnetic
+1035,Nail Art Supplies,Manicure kits Product 5,12.5,17.5,15,Glamnetic
+1036,Magnetic Lashes and Tools,Magnetic lashes and accessories Product 1,6.5,11.5,9,Makartt
+1037,Magnetic Lashes and Tools,Magnetic lashes and accessories Product 2,8,13,10.5,Makartt
+1038,Magnetic Lashes and Tools,Magnetic lashes and accessories Product 3,9.5,14.5,12,Makartt
+1039,Magnetic Lashes and Tools,Magnetic lashes and accessories Product 4,11,16,13.5,Makartt
+1040,Magnetic Lashes and Tools,Magnetic lashes and accessories Product 5,12.5,17.5,15,Makartt
+1041,Gel Manicure Kits,Nail art tools Product 1,6.5,11.5,9,BTArtbox
+1042,Gel Manicure Kits,Nail art tools Product 2,8,13,10.5,BTArtbox
+1043,Gel Manicure Kits,Nail art tools Product 3,9.5,14.5,12,BTArtbox
+1044,Gel Manicure Kits,Nail art tools Product 4,11,16,13.5,BTArtbox
+1045,Gel Manicure Kits,Nail art tools Product 5,12.5,17.5,15,BTArtbox
+1046,Nail Extensions and Tools,Nail polish strips Product 1,6.5,11.5,9,Clutch Nails
+1047,Nail Extensions and Tools,Nail polish strips Product 2,8,13,10.5,Clutch Nails
+1048,Nail Extensions and Tools,Nail polish strips Product 3,9.5,14.5,12,Clutch Nails
+1049,Nail Extensions and Tools,Nail polish strips Product 4,11,16,13.5,Clutch Nails
+1050,Nail Extensions and Tools,Nail polish strips Product 5,12.5,17.5,15,Clutch Nails
+1051,Artificial Nails and Adhesives,Shellac polishes Product 1,6.5,11.5,9,Nails Mailed
+1052,Artificial Nails and Adhesives,Shellac polishes Product 2,8,13,10.5,Nails Mailed
+1053,Artificial Nails and Adhesives,Shellac polishes Product 3,9.5,14.5,12,Nails Mailed
+1054,Artificial Nails and Adhesives,Shellac polishes Product 4,11,16,13.5,Nails Mailed
+1055,Artificial Nails and Adhesives,Shellac polishes Product 5,12.5,17.5,15,Nails Mailed
+1056,Press-On Nails and Designs,Acrylic systems Product 1,6.5,11.5,9,Color Street
+1057,Press-On Nails and Designs,Acrylic systems Product 2,8,13,10.5,Color Street
+1058,Press-On Nails and Designs,Acrylic systems Product 3,9.5,14.5,12,Color Street
+1059,Press-On Nails and Designs,Acrylic systems Product 4,11,16,13.5,Color Street
+1060,Press-On Nails and Designs,Acrylic systems Product 5,12.5,17.5,15,Color Street
+1061,Nail Polish Strips,Nail treatments Product 1,6.5,11.5,9,Jamberry
+1062,Nail Polish Strips,Nail treatments Product 2,8,13,10.5,Jamberry
+1063,Nail Polish Strips,Nail treatments Product 3,9.5,14.5,12,Jamberry
+1064,Nail Polish Strips,Nail treatments Product 4,11,16,13.5,Jamberry
+1065,Nail Polish Strips,Nail treatments Product 5,12.5,17.5,15,Jamberry
+1066,Nail Care and Maintenance,Nail care products Product 1,6.5,11.5,9,Incoco
+1067,Nail Care and Maintenance,Nail care products Product 2,8,13,10.5,Incoco
+1068,Nail Care and Maintenance,Nail care products Product 3,9.5,14.5,12,Incoco
+1069,Nail Care and Maintenance,Nail care products Product 4,11,16,13.5,Incoco
+1070,Nail Care and Maintenance,Nail care products Product 5,12.5,17.5,15,Incoco
+1071,Reusable Nail Systems,Nail extension systems Product 1,6.5,11.5,9,Sally Hansen
+1072,Reusable Nail Systems,Nail extension systems Product 2,8,13,10.5,Sally Hansen
+1073,Reusable Nail Systems,Nail extension systems Product 3,9.5,14.5,12,Sally Hansen
+1074,Reusable Nail Systems,Nail extension systems Product 4,11,16,13.5,Sally Hansen
+1075,Reusable Nail Systems,Nail extension systems Product 5,12.5,17.5,15,Sally Hansen
+1076,Nail Art Kits and Tools,Nail wraps and stickers Product 1,6.5,11.5,9,Essie
+1077,Nail Art Kits and Tools,Nail wraps and stickers Product 2,8,13,10.5,Essie
+1078,Nail Art Kits and Tools,Nail wraps and stickers Product 3,9.5,14.5,12,Essie
+1079,Nail Art Kits and Tools,Nail wraps and stickers Product 4,11,16,13.5,Essie
+1080,Nail Art Kits and Tools,Nail wraps and stickers Product 5,12.5,17.5,15,Essie
+1081,Gel Polish Sets,Nail polish appliqués Product 1,6.5,11.5,9,OPI
+1082,Gel Polish Sets,Nail polish appliqués Product 2,8,13,10.5,OPI
+1083,Gel Polish Sets,Nail polish appliqués Product 3,9.5,14.5,12,OPI
+1084,Gel Polish Sets,Nail polish appliqués Product 4,11,16,13.5,OPI
+1085,Gel Polish Sets,Nail polish appliqués Product 5,12.5,17.5,15,OPI
+1086,Nail Adhesives and Tools,Lacquers and finishes Product 1,6.5,11.5,9,China Glaze
+1087,Nail Adhesives and Tools,Lacquers and finishes Product 2,8,13,10.5,China Glaze
+1088,Nail Adhesives and Tools,Lacquers and finishes Product 3,9.5,14.5,12,China Glaze
+1089,Nail Adhesives and Tools,Lacquers and finishes Product 4,11,16,13.5,China Glaze
+1090,Nail Adhesives and Tools,Lacquers and finishes Product 5,12.5,17.5,15,China Glaze
+1091,Manicure and Pedicure Kits,Magnetic manicure sets Product 1,6.5,11.5,9,CND (Creative Nail Design)
+1092,Manicure and Pedicure Kits,Magnetic manicure sets Product 2,8,13,10.5,CND (Creative Nail Design)
+1093,Manicure and Pedicure Kits,Magnetic manicure sets Product 3,9.5,14.5,12,CND (Creative Nail Design)
+1094,Manicure and Pedicure Kits,Magnetic manicure sets Product 4,11,16,13.5,CND (Creative Nail Design)
+1095,Manicure and Pedicure Kits,Magnetic manicure sets Product 5,12.5,17.5,15,CND (Creative Nail Design)
+1096,Nail Lacquers and Treatments,Nail dashes Product 1,6.5,11.5,9,Bio Seaweed Gel
+1097,Nail Lacquers and Treatments,Nail dashes Product 2,8,13,10.5,Bio Seaweed Gel
+1098,Nail Lacquers and Treatments,Nail dashes Product 3,9.5,14.5,12,Bio Seaweed Gel
+1099,Nail Lacquers and Treatments,Nail dashes Product 4,11,16,13.5,Bio Seaweed Gel
+1100,Nail Lacquers and Treatments,Nail dashes Product 5,12.5,17.5,15,Bio Seaweed Gel
+1101,Nail Care Products,Nail adhesives Product 1,6.5,11.5,9,Le Mini Macaron
+1102,Nail Care Products,Nail adhesives Product 2,8,13,10.5,Le Mini Macaron
+1103,Nail Care Products,Nail adhesives Product 3,9.5,14.5,12,Le Mini Macaron
+1104,Nail Care Products,Nail adhesives Product 4,11,16,13.5,Le Mini Macaron
+1105,Nail Care Products,Nail adhesives Product 5,12.5,17.5,15,Le Mini Macaron
+1106,Professional Nail Systems,Nail sculpting kits Product 1,6.5,11.5,9,Modelones
+1107,Professional Nail Systems,Nail sculpting kits Product 2,8,13,10.5,Modelones
+1108,Professional Nail Systems,Nail sculpting kits Product 3,9.5,14.5,12,Modelones
+1109,Professional Nail Systems,Nail sculpting kits Product 4,11,16,13.5,Modelones
+1110,Professional Nail Systems,Nail sculpting kits Product 5,12.5,17.5,15,Modelones
+1111,Nail art embellishments,Nail art embellishments Product 1,6.5,11.5,9,#N/A
+1112,Nail Polish Appliqués,Nail art embellishments Product 2,8,13,10.5,Beetles Gel Polish
+1113,Nail Polish Appliqués,Nail art embellishments Product 3,9.5,14.5,12,Beetles Gel Polish
+1114,Nail Polish Appliqués,Nail art embellishments Product 4,11,16,13.5,Beetles Gel Polish
+1115,Nail Polish Appliqués,Nail art embellishments Product 5,12.5,17.5,15,Beetles Gel Polish
+1116,Nail Art Tools and Accessories,Custom nail designs Product 1,6.5,11.5,9,Après Nail
+1117,Nail Art Tools and Accessories,Custom nail designs Product 2,8,13,10.5,Après Nail
+1118,Nail Art Tools and Accessories,Custom nail designs Product 3,9.5,14.5,12,Après Nail
+1119,Nail Art Tools and Accessories,Custom nail designs Product 4,11,16,13.5,Après Nail
+1120,Nail Art Tools and Accessories,Custom nail designs Product 5,12.5,17.5,15,Après Nail
+1121,Shellac Nail Products,Nail curing lamps Product 1,6.5,11.5,9,Kiara Sky
+1122,Shellac Nail Products,Nail curing lamps Product 2,8,13,10.5,Kiara Sky
+1123,Shellac Nail Products,Nail curing lamps Product 3,9.5,14.5,12,Kiara Sky
+1124,Shellac Nail Products,Nail curing lamps Product 4,11,16,13.5,Kiara Sky
+1125,Shellac Nail Products,Nail curing lamps Product 5,12.5,17.5,15,Kiara Sky
+1126,Nail Treatment Kits,Nail cleaning solutions Product 1,6.5,11.5,9,Young Nails
+1127,Nail Treatment Kits,Nail cleaning solutions Product 2,8,13,10.5,Young Nails
+1128,Nail Treatment Kits,Nail cleaning solutions Product 3,9.5,14.5,12,Young Nails
+1129,Nail Treatment Kits,Nail cleaning solutions Product 4,11,16,13.5,Young Nails
+1130,Nail Treatment Kits,Nail cleaning solutions Product 5,12.5,17.5,15,Young Nails
+1131,Nail Art Pens and Brushes,Nail strengtheners Product 1,6.5,11.5,9,Revel Nail
+1132,Nail Art Pens and Brushes,Nail strengtheners Product 2,8,13,10.5,Revel Nail
+1133,Nail Art Pens and Brushes,Nail strengtheners Product 3,9.5,14.5,12,Revel Nail
+1134,Nail Art Pens and Brushes,Nail strengtheners Product 4,11,16,13.5,Revel Nail
+1135,Nail Art Pens and Brushes,Nail strengtheners Product 5,12.5,17.5,15,Revel Nail
+1136,Nail Decals and Accessories,Nail buffers and shiners Product 1,6.5,11.5,9,SNS Nails
+1137,Nail Decals and Accessories,Nail buffers and shiners Product 2,8,13,10.5,SNS Nails
+1138,Nail Decals and Accessories,Nail buffers and shiners Product 3,9.5,14.5,12,SNS Nails
+1139,Nail Decals and Accessories,Nail buffers and shiners Product 4,11,16,13.5,SNS Nails
+1140,Nail Decals and Accessories,Nail buffers and shiners Product 5,12.5,17.5,15,SNS Nails
+1141,Hand and Nail Care Products,Nail training kits Product 1,6.5,11.5,9,Azure Beauty
+1142,Hand and Nail Care Products,Nail training kits Product 2,8,13,10.5,Azure Beauty
+1143,Hand and Nail Care Products,Nail training kits Product 3,9.5,14.5,12,Azure Beauty
+1144,Hand and Nail Care Products,Nail training kits Product 4,11,16,13.5,Azure Beauty
+1145,Hand and Nail Care Products,Nail training kits Product 5,12.5,17.5,15,Azure Beauty
+1146,Complete Nail Design Kits,Professional nail equipment Product 1,6.5,11.5,9,Morovan
+1147,Complete Nail Design Kits,Professional nail equipment Product 2,8,13,10.5,Morovan
+1148,Complete Nail Design Kits,Professional nail equipment Product 3,9.5,14.5,12,Morovan
+1149,Complete Nail Design Kits,Professional nail equipment Product 4,11,16,13.5,Morovan
+1150,Complete Nail Design Kits,Professional nail equipment Product 5,12.5,17.5,15,Morovan
